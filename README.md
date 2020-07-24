@@ -1,1 +1,1 @@
-![Banner](Banner.gif)
+![image](https://github.com/perryliuofficial/perryliuofficial/blob/master/Banner.gif)
