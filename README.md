@@ -26,6 +26,6 @@ I'm Software Developer who enjoys working on fullstack apps.
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Godot](https://img.shields.io/badge/godot-%23478CBF.svg?style=for-the-badge&logo=godot%20engine&logoColor=white)
 
-![Perry's GitHub stats](https://github-readme-stats.vercel.app/api?username=perryliuofficial&theme=dark&show_icons=true)
+![Perry's GitHub stats](https://github-readme-stats.vercel.app/api?username=perryliuofficial&theme=dark&show_icons=true&count_private=true)
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=perryliuofficial&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EBEBEB)](https://git.io/streak-stats)
