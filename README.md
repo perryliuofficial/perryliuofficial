@@ -24,6 +24,7 @@ I'm Software Developer who enjoys working on fullstack apps.
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-%23478CBF.svg?style=for-the-badge&logo=godot%20engine&logoColor=white)
 
 ![Perry's GitHub stats](https://github-readme-stats.vercel.app/api?username=perryliuofficial&theme=dark&show_icons=true)
 <br><br>
