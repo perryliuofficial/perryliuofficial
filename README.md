@@ -1,7 +1,9 @@
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-%230077B5.svg?logo=personal&logoColor=white)](https://www.perryliu.co.uk/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perryliuofficial/) 
+[![](https://visitcount.itsvg.in/api?id=perryliuofficial&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 I'm Software Developer who enjoys working on a bit of everything.
+
+[Personal Website](https://www.perryliu.co.uk/)<br>
+[LinkedIn](https://www.linkedin.com/in/perryliuofficial/)
 
 <h5>Frontend</h5>
 
