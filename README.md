@@ -16,22 +16,22 @@ I'm Software Developer who enjoys working on a bit of everything.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23264de4.svg?style=for-the-badge&logo=bootstrap&logoColor=%23323330)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
-<h5>Backend & Devops</h5>
+<h5>Backend</h5>
 
 ![Python](https://img.shields.io/badge/python-%234584b6.svg?style=for-the-badge&logo=python&logoColor=%23323330)
 ![PYPI](https://img.shields.io/badge/pypi-%233775A9.svg?style=for-the-badge&logo=pypi&logoColor=%23323330)
 ![C#](https://img.shields.io/badge/c%23-%23512bd4.svg?style=for-the-badge&logo=csharp&logoColor=%23323330)
 ![.NET](https://img.shields.io/badge/.net-%23512bd4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Nuget](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=%23323330)
-![Windows Server IIS](https://img.shields.io/badge/Windows%20Server%20IIS-%23323330.svg?style=for-the-badge&logo=iis&logoColor=%23F7DF1E) 
 ![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=sql&logoColor=%23F7DF1E) 
-![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E) 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azure%20devops&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google%20cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h5>Misc</h5>
+<h5>Devops & Misc</h5>
 
+![Windows Server IIS](https://img.shields.io/badge/Windows%20Server%20IIS-%23323330.svg?style=for-the-badge&logo=iis&logoColor=%23F7DF1E) 
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azure%20devops&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E) 
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google%20cloud&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
