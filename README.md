@@ -32,6 +32,8 @@ I'm a Software Developer who enjoys working on a bit of everything.
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azure%20devops&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%23F7DF1E) 
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google%20cloud&logoColor=white)
+![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-%23323330.svg?style=for-the-badge&logo=&logoColor=%23F7DF1E)
+![DNS](https://img.shields.io/badge/DNS-%23323330.svg?style=for-the-badge&logo=&logoColor=%23F7DF1E)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
