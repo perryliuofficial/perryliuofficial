@@ -7,7 +7,8 @@ I'm a Software Developer who enjoys working on a bit of everything.
 
 <h5>Frontend</h5>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E) 
 ![Typescript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=%23323330)
 ![Angular](https://img.shields.io/badge/angular-%23dd1b16.svg?style=for-the-badge&logo=Angular&logoColor=%23323330)
 ![React](https://img.shields.io/badge/react-%2300d8ff.svg?style=for-the-badge&logo=React&logoColor=%23323330)
