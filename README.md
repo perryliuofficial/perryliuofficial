@@ -1,6 +1,6 @@
 <!--- [![](https://visitcount.itsvg.in/api?id=perryliuofficial&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) --->
 
-I'm a Software Developer who enjoys working on a bit of everything.
+I'm a Software Developer currently working on Angular, React, and .NET MVC projects.
 
 [Personal Website](https://www.perryliu.co.uk/)<br>
 [LinkedIn](https://www.linkedin.com/in/perryliuofficial/)
@@ -42,7 +42,8 @@ I'm a Software Developer who enjoys working on a bit of everything.
 ![unity](https://img.shields.io/badge/Unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <h5>Fun Stats</h5>
-
+<!---
 ![Perry's GitHub stats](https://github-readme-stats.vercel.app/api?username=perryliuofficial&theme=dark&show_icons=true&count_private=true)
-<br><br>
+<br><br> --->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=perryliuofficial&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EBEBEB)](https://git.io/streak-stats)
